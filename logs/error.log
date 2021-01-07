@@ -1,0 +1,1 @@
+2021/01/07 18:01:31 [emerg] 18819#0: dlopen() "/root/nginx/nginx/modules/ngx_http_geoip_module.so" failed (/root/nginx/nginx/modules/ngx_http_geoip_module.so: cannot open shared object file: No such file or directory) in /etc/nginx/modules-enabled/50-mod-http-geoip.conf:1
